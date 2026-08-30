@@ -1,1 +1,1 @@
-export const DB_NAME = "Swapnil"
+export const DB_NAME = "SwapnilKobi"
